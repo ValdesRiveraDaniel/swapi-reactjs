@@ -1,0 +1,68 @@
+.FilmDetail {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 30px;
+}
+
+.FilmDetail > .closeDetail {
+    display: flex;
+    height: fit-content;
+    margin-bottom: 20px;
+}
+
+.FilmDetail > .closeDetail > div {
+    margin: auto 0;
+    background-color: #9e9503;
+    padding: 10px 24px;
+    border-radius: 5px;
+    color: white;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+
+.FilmDetail > .filmInfo {
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+}
+
+.FilmDetail > .filmInfo > .filmInfo_img {
+    width: 50%;
+}
+
+.FilmDetail > .filmInfo > .filmInfo_content {
+    margin-left: 35px;
+    color: white;
+    width: max-content;
+}
+
+.FilmDetail > .charactersSection {
+    margin-top: 20px;
+}
+
+.FilmDetail > .charactersSection > h1 {
+    color: white;
+}
+
+.filmCharacters {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 30px;
+}
+
+.filmCharacters > .filmCharacters_character {
+    display: flex;
+    margin-bottom: 20px;
+    width: 240px;
+}
+
+.filmCharacters > .filmCharacters_character > .character_img {
+    width: 100px;
+    border-radius: 5px;
+}
+
+.filmCharacters > .filmCharacters_character > .character_info {
+    color: white;
+    margin-left: 5px;
+}

@@ -1,68 +1,73 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SWAPI ReactJS <img src="https://www.nebrija.com/lp/2019/inc/common/assets/img/logo_nebrija.png" height="50px" align="right" />
 
-## Available Scripts
+Star Wars API info listing using ReactJS. 
 
-In the project directory, you can run:
+*Mid-Exam* for *Web UI Programming* at Nebrija University.
 
-### `npm start`
+![GitHub Release Date](https://img.shields.io/github/release-date/JaimeDordio/swapi-reactjs)
+![GitHub last commit](https://img.shields.io/github/last-commit/JaimeDordio/swapi-reactjs)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ffcd255d-7882-4d05-a4a2-e973ccec91e2/deploy-status)](https://app.netlify.com/sites/swapi-reactjs/deploys)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚩 Getting Started
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+These instructions will get you a copy of the project up and running on your local machine for start using it.
 
-### `npm test`
+### Installing
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A step by step series of examples that tell you how to get a development environment running.
 
-### `npm run build`
+Installing dependencies
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm install
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Starting on local
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `npm run eject`
+## 🖇 Dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+They are in the `package.json` file.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+These are the project dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```json
+"dependencies": {
+  "clone-deep": "^4.0.1",
+  "react": "^16.12.0",
+  "react-dom": "^16.12.0",
+  "react-scripts": "^3.3.1"
+}
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🛠 Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [ReactJS](https://reactjs.org) - The frontend framework used
+* [NPM](https://www.npmjs.com) - Package manager
 
-### Code Splitting
+## 🚀 Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Zeit
 
-### Analyzing the Bundle Size
+This project uses [Zeit.co](https://zeit.co/home).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Live version can be found on this domain: **[https://rickandmorty-reactjs.now.sh](https://swapi-reactjs.now.sh)**.
 
-### Making a Progressive Web App
+![now](https://assets.zeit.co/image/upload/v1542240976/repositories/now-cli/now-cli-repo-banner-v3.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### Netlify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+This project uses [Netlify](https://www.netlify.com) too.
 
-### Deployment
+Another live version can be found on this domain: **[https://swapi-reactjs.netlify.com](https://swapi-reactjs.netlify.com)**.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+## 👤 Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* Jaime Dordio
