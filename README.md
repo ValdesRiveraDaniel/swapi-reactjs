@@ -6,7 +6,7 @@ Star Wars API info listing using ReactJS.
 
 ![GitHub Release Date](https://img.shields.io/github/release-date/JaimeDordio/swapi-reactjs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/JaimeDordio/swapi-reactjs)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ffcd255d-7882-4d05-a4a2-e973ccec91e2/deploy-status)](https://app.netlify.com/sites/swapi-reactjs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98372223-a4e5-465a-b66a-2f1b4b3e7ef1/deploy-status)](https://app.netlify.com/sites/swapi-reactjs-nebrija/deploys)
 
 ## 🚩 Getting Started
 
@@ -56,7 +56,7 @@ These are the project dependencies:
 
 This project uses [Zeit.co](https://zeit.co/home).
 
-Live version can be found on this domain: **[https://rickandmorty-reactjs.now.sh](https://swapi-reactjs.now.sh)**.
+Live version can be found on this domain: **[https://swapi-reactjs.now.sh](https://swapi-reactjs.now.sh)**.
 
 ![now](https://assets.zeit.co/image/upload/v1542240976/repositories/now-cli/now-cli-repo-banner-v3.png)
 
@@ -65,7 +65,7 @@ Live version can be found on this domain: **[https://rickandmorty-reactjs.now.sh
 
 This project uses [Netlify](https://www.netlify.com) too.
 
-Another live version can be found on this domain: **[https://swapi-reactjs.netlify.com](https://swapi-reactjs.netlify.com)**.
+Another live version can be found on this domain: **[https://swapi-reactjs-nebrija.netlify.com](https://swapi-reactjs-nebrija.netlify.com)**.
 
 
 ## 👤 Authors
