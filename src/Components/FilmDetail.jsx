@@ -1,8 +1,9 @@
 import React from "react";
 import "./FilmDetail.css";
+import yellowStar from "../Assets/starYellow.svg";
 
 const FilmDetail = props => {
-  const { film, onFilmDetailClose } = props;
+  const { film, onFilmDetailClose, onRating } = props;
   return (
     <div className="FilmDetail">
       <div className="closeDetail">
@@ -31,6 +32,31 @@ const FilmDetail = props => {
           <p>
             <b>Beginning:</b> {film.opening_crawl}
           </p>
+        </div>
+      </div>
+      <div className="filmRate">
+        <h1>Rate film</h1>
+        <div className="filmRate-content">
+          <div className="ratingStar" onClick={e => onRating(film.episode_id, 1)}>
+            <img src={yellowStar} alt="1" />
+            <span>1</span>
+          </div>
+          <div className="ratingStar" onClick={e => onRating(film.episode_id, 2)}>
+            <img src={yellowStar} alt="2" />
+            <span>2</span>
+          </div>
+          <div className="ratingStar" onClick={e => onRating(film.episode_id, 3)}>
+            <img src={yellowStar} alt="3" />
+            <span>3</span>
+          </div>
+          <div className="ratingStar" onClick={e => onRating(film.episode_id, 4)}>
+            <img src={yellowStar} alt="4" />
+            <span>4</span>
+          </div>
+          <div className="ratingStar" onClick={e => onRating(film.episode_id, 5)}>
+            <img src={yellowStar} alt="5" />
+            <span>5</span>
+          </div>
         </div>
       </div>
       <div className="charactersSection">

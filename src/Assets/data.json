@@ -7,6 +7,10 @@
     "director": "George Lucas",
     "producer": "Rick McCallum",
     "release_date": "1999-05-19",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "C3PO",
@@ -63,6 +67,10 @@
     "director": "George Lucas",
     "producer": "Rick McCallum",
     "release_date": "2002-05-16",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "Obi-Wan Kenobi",
@@ -119,6 +127,10 @@
     "director": "George Lucas",
     "producer": "Rick McCallum",
     "release_date": "2005-05-19",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "Obi-Wan Kenobi",
@@ -174,6 +186,10 @@
     "director": "George Lucas",
     "producer": "Gary Kurtz, Rick McCallum",
     "release_date": "1977-05-25",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "image": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
     "characters": [
       {
@@ -226,6 +242,10 @@
     "director": "Irvin Kershner",
     "producer": "Gary Kurtz, Rick McCallum",
     "release_date": "1980-05-17",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "Luke Skywalker",
@@ -282,6 +302,10 @@
     "director": "Richard Marquand",
     "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
     "release_date": "1983-05-25",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "Luke Skywalker",
@@ -333,6 +357,10 @@
     "director": "J. J. Abrams",
     "producer": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
     "release_date": "2015-12-11",
+    "rating": {
+      "ratingAvg": 0,
+      "ratingsArr": []
+    },
     "characters": [
       {
         "name": "Obi-Wan Kenobi",

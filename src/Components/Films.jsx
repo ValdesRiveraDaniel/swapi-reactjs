@@ -13,6 +13,8 @@ const Films = props => {
             image={item.image}
             title={item.title}
             episode={item.episode_id}
+            rating={item.rating.ratingAvg}
+            numOfRatings={item.rating.ratingsArr.length}
             onFilmClick={onFilmClick}
           />
         );
