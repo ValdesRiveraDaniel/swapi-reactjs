@@ -1,9 +1,0 @@
-.Container {
-    display: flex;
-}
-
-.Container > .Sidebar {
-    width: 50vw;
-    background-color: #1d1d1d;
-    border-left: 1px solid #696300;
-}
