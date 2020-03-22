@@ -1,0 +1,5 @@
+.Films {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+}
